@@ -1,8 +1,8 @@
 ![GitHub Logo](BitLambo.png)
 
-# Yet another ICO is live, get in before it's too late!
+# Yet another ICO is live, get in before it's too late! 
 
-| Planning        | Development           | Launched!           |
+| Planning        | Development            | Launched!           |
 | :-------------: |:-------------:|:-------------:|
 | Why are we late to the ERC20 token party I hear you ask? We've been planning this ICO (or Inital Coin Offering) since Vitalik Buterin was writing "hello world" websites.      | We've been working on BitLambo (symbol - BITBO) for at least 2 hours. While other ICO creators were making hundreds of millions of dollars we have been copying and pasting code to make a smart contract from Ethereum.org. Not to mention making this 1 page website! | You can now send POA to [get your BitLambo right away](https://wizard.oracles.org/invest?addr=0x34f7690f15B4a3c466A86BAFcBD55250E15E9605&networkID=99). Yep, no waiting period like other ICOs, ain't nobody got time for that. |
 

@@ -1,4 +1,4 @@
-<center> ![GitHub Logo](BitLambo.png) </center>
+![GitHub Logo](BitLambo.png)
 
 [Telegram](https://www.google.com) / [WhatsApp](https://www.google.com) <!--/ [Bitcointalk](https://www.google.com) / Medium / Twitter-->
 

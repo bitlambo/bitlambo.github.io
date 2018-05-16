@@ -1,4 +1,4 @@
-<center>![alt text](BitLambo.png "Logo Title Text 1")</center>
+<center> ![GitHub Logo](BitLambo.png) </center>
 
 [Telegram](https://www.google.com) / [WhatsApp](https://www.google.com) <!--/ [Bitcointalk](https://www.google.com) / Medium / Twitter-->
 
